@@ -1,2 +1,3 @@
 # python
-Fişiere de lucru din tutoriale.
+Fişiere de lucru din tutoriale:
+- Bruce Van Horn
